@@ -1,0 +1,10 @@
+MANIFEST                This list of included files
+README.txt              Summary and instructions
+Changes                 What changed when
+Makefile.PL             Automates installation/testing
+lib/Algorithm/Loops.pm  Main module code
+t/assert.t              Tests assertion failures
+t/basic.t               Tests basic functionality
+ex/MatrixMult.plx       Multiplies matrices
+ex/NaturalSort.plx      Sorts mixed numbers/letters
+ex/Permute.plx          Permutes words/characters
